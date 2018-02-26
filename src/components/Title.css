@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Play');
+
+.Title {
+	background: #A9A9A9;
+	color: #ccc;
+	font-family: 'Play';
+	text-align: center;
+	width: 100vw;
+    padding: 30px 40px;
+}
+
+.Title > h1 {
+	color: #331a00;
+
+}
+.Title > div {
+	width: 100px;
+	background:#000000;
+	margin: 0 auto;
+	font-size: 20px;
+	color: #FFFFFF;
+	padding: 5px;
+}
